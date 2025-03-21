@@ -8,6 +8,6 @@ public class Practica4 {
         if (Sueldo>3000 ) {
             System.out.println("DEBE ABONAR IMPUESTOS");
         }
-
+        leer.close();
     }
 }

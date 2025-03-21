@@ -9,5 +9,6 @@ public class Practica5 {
         if (Num1>Num2){System.out.println("EL NUMERO MAYOR ES: "+Num1);}
         else {System.out.println("EL NUMERO MAYOR ES: "+Num2);
         }
+    leer.close();
     }
 }
